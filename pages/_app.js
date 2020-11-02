@@ -4,7 +4,7 @@ import "../styles/global.css"
 function App({ Component, pageProps }) {
     return (
       <React.Fragment>
-        <h1>Hi</h1>
+        <h1>Test 2</h1>
         <Component {...pageProps} />
       </React.Fragment>  
     )
